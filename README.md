@@ -2,6 +2,6 @@
 - 👀 I’m interested in design, coding, and cryptocurrency
 - 🌱 I’m currently learning Python, HTML+CSS, JavaScript
 - 💞️ I’m looking to collaborate on scripts/bots
-- 📫 How to reach me ...
+- 📫 How to reach me tg: @uglyking
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love crocks🐊
