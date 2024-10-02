@@ -15,7 +15,7 @@
 ![Light Theme](Screenshot_light.jpeg)
 *Светлая тема*
 
-![Dark Theme](screenshots\Screenshot_dark.jpeg)
+![Dark Theme](Screenshot_dark.jpeg)
 *Темная тема*
 
 ## Установка
