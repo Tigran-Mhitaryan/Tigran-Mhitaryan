@@ -12,7 +12,7 @@
 
 ## Скриншоты
 
-![Light Theme](screenshots\Screenshot_light.jpeg)
+![Light Theme](Screenshot_light.jpeg)
 *Светлая тема*
 
 ![Dark Theme](screenshots\Screenshot_dark.jpeg)
