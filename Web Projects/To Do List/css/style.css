@@ -1,0 +1,124 @@
+/* Default (light) theme */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  position: relative;
+}
+
+.container {
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.task-form {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.task-input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px 0 0 5px;
+}
+
+.add-task-button {
+  padding: 10px;
+  border: none;
+  background: #5cb85c;
+  color: white;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+
+.add-task-button:hover {
+  background: #4cae4c;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+
+.task-list li {
+  background: #f9f9f9;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task-list li.completed {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.task-list li button {
+  background: #d9534f;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.task-list li button:hover {
+  background: #c9302c;
+}
+
+/* Dark theme */
+body.dark-theme {
+  background-color: #333;
+  color: #f4f4f4;
+}
+
+body.dark-theme .container {
+  background: #444;
+}
+
+body.dark-theme .task-input {
+  border: 1px solid #555;
+}
+
+body.dark-theme .add-task-button {
+  background: #5cb85c;
+}
+
+body.dark-theme .task-list li {
+  background: #555;
+  border: 1px solid #666;
+}
+
+body.dark-theme .task-list li.completed {
+  color: #bbb;
+}
+
+/* Positioning the theme toggle button */
+.theme-toggle {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background: #5cb85c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  background: #4cae4c;
+}
