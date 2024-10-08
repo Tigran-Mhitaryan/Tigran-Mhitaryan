@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tigran-Mhitaryan
 - 👀 I’m interested in design, coding, and cryptocurrency
 - 🌱 I’m currently learning Python, HTML+CSS, JavaScript
-- 💞️ I’m looking to collaborate on scripts/bots and other
+- 💞️ I’m looking to collaborate on scripts/bots/websites and other
 - 📫 How to reach me tg: @uglyking
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love crocks🐊
