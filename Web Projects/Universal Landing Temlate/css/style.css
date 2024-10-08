@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 850px;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+}
+
+.main {
+  display: flex;
+  min-height: calc(100vh - 40vh);
+}
+
+article {
+  flex: 1;
+}
+
+nav,
+aside {
+  flex: 0 0 20vw;
+  background: #ffc802;
+}
+
+nav {
+  order: -1;
+}
+
+header,
+footer,
+article,
+nav,
+aside {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header,
+footer {
+  height: 20vh;
+  background: #feafe8;
+}
